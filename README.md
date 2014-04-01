@@ -4,9 +4,7 @@
 
  Look at the index.php
 
----
- @version 1.0
- @author R.SkuLL
- @license The MIT License
- @copyright 2014 Geekz Web Development
----
+ version 1.0
+ author R.SkuLL
+ license The MIT License
+ copyright 2014 Geekz Web Development
